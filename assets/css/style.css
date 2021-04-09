@@ -1625,7 +1625,7 @@ section {
   justify-content: center;
 }
 #hero {
-  background: url(/assets/img/bg.jpg) center center no-repeat;
+  background: url(../img/bg.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
