@@ -22,7 +22,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 0 25px 0 25px;
+  padding: 0 8vw;
   background-color: #fff;
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.1);
   border-bottom-left-radius: 10px;
